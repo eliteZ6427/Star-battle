@@ -1,5 +1,6 @@
 # RU
-![star-battle](https://socialify.git.ci/gd4Ark/star-battle/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Fgd4Ark%2Fstar-battle%2Fmaster%2Fimg%2Flogo-01.png&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
+
+![star-battle](https://socialify.git.ci/eliteZ6427/star-battle/image?description=1&font=Inter&forks=1&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FeliteZ6427%2Fstar-battle%2Fmaster%2Fimg%2Flogo-01.png&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light)
 
 > Игра про стрельбу в космосе разработанная на основе JavaScript ES6, Canvas.
 >
@@ -11,7 +12,7 @@
 
 ## Правила игры
 
-1. Используя  `W`、`A`、`S`、`D` управляйте ракетой，нажмите `Пробел` чтобы выстрелить.
+1. Используя `W`、`A`、`S`、`D` управляйте ракетой，нажмите `Пробел` чтобы выстрелить.
 2. Начальное значение топлива — 15. Уменьшение на 1 пункт в секунду. Когда значение топлива равно 0, игра окончена.
 3. Соприкасающийся с ним баллон с топливом может быть увеличен на 15 очков, максимальное значение - 30 очков.
 4. Ударьте по космическому кораблю противника, чтобы увеличить его на 5 очков. Планету нужно ударить дважды, увеличив ее на 10 очков. Ударьте друга, чтобы вычесть 10 очков.
@@ -21,7 +22,7 @@
 
 ## Автор
 
-> [Blog](https://4ark.me/) · GitHub [@gd4Ark](https://github.com/gd4Ark)
+> [Blog](https://4ark.me/) · GitHub [@eliteZ6427](https://github.com/eliteZ6427)
 
 ## Вывод
 
